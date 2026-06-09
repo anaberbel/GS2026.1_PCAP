@@ -1,4 +1,4 @@
-# GS2026.1_PCAP
+# GS2026.1_PCAP_SER
 
 O software foi desenvolvido com o objetivo de auxiliar uma missão espacial em seu decorrer, garantindo o registro de dados e análise de risco em tempo real.
 
